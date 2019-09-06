@@ -1,4 +1,4 @@
-# PHP Test task for implementing api without using dependencies
+# PHP implementing api recipes without using dependencies
 
 | uri                  |request                                     | method | response           | description                                  |
 |----------------------|--------------------------------------------|--------|--------------------|----------------------------------------------|
